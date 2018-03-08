@@ -1,2 +1,0 @@
-calculadora.calculadoraGUI
-calculadora.calculadoraGUI$1
